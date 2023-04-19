@@ -6,11 +6,13 @@ Quickly match subtitles to videos with one script, or quickly match videos to su
 ## Installation
 Github:
 ```
-git clone https://github.com/I2rys/opengen-bot
+git clone https://github.com/Aheartw1thR/Video-Matched-Subtitles.git
+```
 
 Python:
 ``` 
 https://www.python.org/downloads
+``` 
 
 ## Usage
 
