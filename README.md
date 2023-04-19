@@ -9,10 +9,10 @@ Github:
 git clone https://github.com/Aheartw1thR/Video-Matched-Subtitles.git
 ```
 ### Python
-[Download Python](https://www.python.org/downloads/)
+[Python Download](https://www.python.org/downloads/)
 
 ### VSCode
-[Download Visual Studio Code](https://code.visualstudio.com/)
+[ Visual Studio Code Download](https://code.visualstudio.com/)
 
 ## Usage
 
