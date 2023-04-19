@@ -14,6 +14,11 @@ Python:
 https://www.python.org/downloads
 ``` 
 
+VScode
+```
+https://code.visualstudio.com/
+```
+
 ## Usage
 
     # Set the directory path containing the video and SRT files
