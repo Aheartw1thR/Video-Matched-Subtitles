@@ -8,18 +8,11 @@ Github:
 ```
 git clone https://github.com/Aheartw1thR/Video-Matched-Subtitles.git
 ```
+### Python
+[Download Python](https://www.python.org/downloads/)
 
-Python:
-``` 
-[Download](https://www.python.org/downloads/)
-
-``` 
-
-VScode
-```
-[Download](https://code.visualstudio.com/))
-
-```
+### VSCode
+[Download Visual Studio Code](https://code.visualstudio.com/)
 
 ## Usage
 
