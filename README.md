@@ -10,7 +10,7 @@ git clone https://github.com/I2rys/opengen-bot
 
 Python:
 ```
-https://www.python.org/downloads/
+https://www.python.org/downloads
 
 ## Usage
 
