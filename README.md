@@ -11,12 +11,14 @@ git clone https://github.com/Aheartw1thR/Video-Matched-Subtitles.git
 
 Python:
 ``` 
-https://www.python.org/downloads
+[Download](https://www.python.org/downloads/)
+
 ``` 
 
 VScode
 ```
-https://code.visualstudio.com/
+[Download](https://code.visualstudio.com/))
+
 ```
 
 ## Usage
